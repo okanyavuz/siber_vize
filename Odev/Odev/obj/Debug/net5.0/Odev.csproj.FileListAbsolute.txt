@@ -1,0 +1,16 @@
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net5.0\Odev.exe
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net5.0\Odev.deps.json
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net5.0\Odev.runtimeconfig.json
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net5.0\Odev.runtimeconfig.dev.json
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net5.0\Odev.dll
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net5.0\ref\Odev.dll
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\bin\Debug\net5.0\Odev.pdb
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net5.0\Odev.csproj.AssemblyReference.cache
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net5.0\Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net5.0\Odev.AssemblyInfoInputs.cache
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net5.0\Odev.AssemblyInfo.cs
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net5.0\Odev.csproj.CoreCompileInputs.cache
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net5.0\Odev.dll
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net5.0\ref\Odev.dll
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net5.0\Odev.pdb
+C:\Users\Okan\OneDrive\Masaüstü\Odev\Odev\obj\Debug\net5.0\Odev.genruntimeconfig.cache
